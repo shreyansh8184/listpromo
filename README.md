@@ -1,5 +1,5 @@
 # List Promotion Bot
-cross-prom is a service for cross-promotions in telegram. It can collect channels into a list, and output all of them into one message. It has a system of filtering.
+List Promotion Bot is a service for cross-promotions in telegram. It can collect channels into a list, and output all of them into one message. It has a system of filtering.
 IN DEVELOPMENT
 
 
