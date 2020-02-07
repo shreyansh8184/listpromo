@@ -15,11 +15,6 @@ def getMessage():
     return "!", 200
 
 
-@server.route("/")
-def webhook():
-    bot.remove_webhook()
-    bot.set_webhook(url='NAME OF HEROKU APP' + config.TOKEN)
-    return "!", 200
 
 
 
